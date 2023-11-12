@@ -1,0 +1,5 @@
+node_nodules
+
+/vite-dev-server/node_modules/
+
+/test-vite/node_modules/
